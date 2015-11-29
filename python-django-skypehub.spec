@@ -9,7 +9,7 @@ Source0:	django-skypehub-%{version}.tar.bz2
 # Source0-md5:	371824253928953b362bc85d0a696030
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-django
 Requires:	python-skype
 BuildArch:	noarch
